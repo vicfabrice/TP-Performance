@@ -10,5 +10,4 @@ class ListadoMaximosSalariosTest extends BaseListadoTest {
 		new ListadoMaximosSalarios(fileName).generarListado();
 		assertListadoLength(12, fileName);
 	}
-
 }
