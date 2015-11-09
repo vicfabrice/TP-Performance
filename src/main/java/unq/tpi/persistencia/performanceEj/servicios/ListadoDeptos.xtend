@@ -19,5 +19,4 @@ class ListadoDeptos extends AbstractListado {
 			newLine()
 		]
 	}
-
 }

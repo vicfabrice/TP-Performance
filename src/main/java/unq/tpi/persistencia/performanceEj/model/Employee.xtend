@@ -39,5 +39,4 @@ public class Employee {
 			return null
 		this.titles.iterator().next()
 	}
-	
 }

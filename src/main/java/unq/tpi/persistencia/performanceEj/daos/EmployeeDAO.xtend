@@ -23,5 +23,4 @@ class EmployeeDAO {
 		val session = SessionManager.getSession()
 		session.load(Employee, id) as Employee
 	}
-
 }

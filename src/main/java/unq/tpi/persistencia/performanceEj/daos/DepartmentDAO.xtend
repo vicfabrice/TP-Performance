@@ -21,5 +21,5 @@ class DepartmentDAO {
 		val session = SessionManager.getSession()
 		session.createCriteria(Department).list() as List<Department>
 	}
-
+	
 }

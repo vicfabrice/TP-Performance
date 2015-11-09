@@ -15,6 +15,5 @@
 		<property name="amount">
 			<column name="salary" sql-type="int"/>
 		</property>
-
 	</class>
 </hibernate-mapping>

@@ -17,5 +17,4 @@ class ListadoDetalleEmpleadoTest extends BaseListadoTest {
 		new ListadoDetalleEmpleado(filename, 10019).generarListado();
 		this.assertListadoLength(14, filename);
 	}
-	
 }

@@ -26,5 +26,4 @@ class ListadoPagosPorDepto extends AbstractListado {
 			newLine()
 		]
 	}
-	
 }
