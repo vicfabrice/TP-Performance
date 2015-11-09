@@ -10,5 +10,4 @@ class ListadosDeptosTest extends BaseListadoTest {
 		new ListadoPagosPorDepto(filename, "d007").generarListado();
 		assertListadoLength(37_706, filename);
 	}
-	
 }
